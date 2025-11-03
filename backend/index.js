@@ -5,10 +5,9 @@ import cors from "cors";
 
 import path from "path";
 
-import { connectDB } from "./lib/db.js";
+import { connectDB } from "./config/dbConnect.js";
 
 import moodRoutes from "./route/moodRoute.js";
-import { app, server } from "./lib/socket.js";
 
 dotenv.config();
 
@@ -24,7 +23,7 @@ app.use(
   })
 );
 
-app.use("/api/moodroute", authRoutes);
+app.use("/api/moodroute", moodRoutes);
 
 
 
@@ -36,7 +35,7 @@ app.get('*', (req, res) => {
 });
 
 
-server.listen(PORT, () => {
+app.listen(PORT, () => {
   console.log("server is running on PORT:" + PORT);
   connectDB();
 });
