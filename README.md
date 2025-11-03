@@ -85,6 +85,11 @@ These verses symbolize self-awareness and balance, guiding the tone and mood log
 🧭 Development Timeline
 Hour	Milestone	Description
 1st Hour	💭 Ideation & Shloka Reflection	Brainstormed concept inspired by shlokas (14, 15, 16, 17, 22) — explored how spiritual philosophy could align with emotional AI.
+Shlok 14 - I am beyond the body and senses.
+Shlok 15 - I am beyond the body and senses.
+Shlok 16 - I am beyond birth, death, or identity.
+Shlok 17 - I am formless, eternal awareness present everywhere.
+All these shlokas tell us to remove all the bad feelings and emotions from our life and just bring god and their words in our life, which will automatically bring good vibes in our life.
 2nd Hour	🧠 Model & Architecture Planning	Designed the AI flow (text, voice, webcam) and data storage. Planned UUID-based user identity and structured database schemas.
 3rd & 4th Hour	⚙️ Frontend, Backend & AI Integration	Built the frontend using React + Zustand and connected it with backend APIs. Integrated AI mood detection and Groq speech-to-text functionality.
 Final Hour	🚀 Deployment & Refinement	Final testing, bug fixes, and deployment on Render. Ensured complete connectivity between AI model, backend, and frontend layers.
