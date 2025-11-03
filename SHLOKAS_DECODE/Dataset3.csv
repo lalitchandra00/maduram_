@@ -1,0 +1,201 @@
+Mood,Song
+Happy,Happy – Pharrell Williams
+Happy,Good Life – OneRepublic
+Happy,Uptown Funk – Mark Ronson ft. Bruno Mars
+Happy,Walking on Sunshine – Katrina and the Waves
+Happy,Best Day of My Life – American Authors
+Happy,Can’t Stop the Feeling – Justin Timberlake
+Happy,Sugar – Maroon 5
+Happy,On Top of the World – Imagine Dragons
+Happy,Dance Monkey – Tones and I
+Happy,Firework – Katy Perry
+Happy,Shake It Off – Taylor Swift
+Happy,Blinding Lights – The Weeknd
+Happy,I Gotta Feeling – The Black Eyed Peas
+Happy,Happy Now – Kygo ft. Sandro Cavazza
+Happy,Good as Hell – Lizzo
+Happy,Adventure of a Lifetime – Coldplay
+Happy,Count on Me – Bruno Mars
+Happy,Sunflower – Post Malone & Swae Lee
+Happy,Levitating – Dua Lipa
+Happy,Feel So Close – Calvin Harris
+Sad,Someone Like You – Adele
+Sad,Let Her Go – Passenger
+Sad,Fix You – Coldplay
+Sad,Say Something – A Great Big World ft. Christina Aguilera
+Sad,When I Was Your Man – Bruno Mars
+Sad,Skinny Love – Bon Iver
+Sad,Happier – Ed Sheeran
+Sad,Lose You to Love Me – Selena Gomez
+Sad,The Night We Met – Lord Huron
+Sad,Tears Dry on Their Own – Amy Winehouse
+Sad,All I Want – Kodaline
+Sad,Back to December – Taylor Swift
+Sad,Creep – Radiohead
+Sad,Jealous – Labrinth
+Sad,Let It Go – James Bay
+Sad,See You Again – Wiz Khalifa ft. Charlie Puth
+Sad,Too Good at Goodbyes – Sam Smith
+Sad,Stay With Me – Sam Smith
+Sad,Everybody Hurts – R.E.M.
+Sad,Youth – Daughter
+Angry,In the End – Linkin Park
+Angry,Lose Yourself – Eminem
+Angry,Smells Like Teen Spirit – Nirvana
+Angry,Killing in the Name – Rage Against the Machine
+Angry,Break Stuff – Limp Bizkit
+Angry,Stronger – Kanye West
+Angry,Numb – Linkin Park
+Angry,Monster – Skillet
+Angry,Uprising – Muse
+Angry,Bodies – Drowning Pool
+Angry,Headstrong – Trapt
+Angry,Given Up – Linkin Park
+Angry,Duality – Slipknot
+Angry,The Pretender – Foo Fighters
+Angry,Boulevard of Broken Dreams – Green Day
+Angry,Welcome to the Jungle – Guns N' Roses
+Angry,My Songs Know What You Did in the Dark – Fall Out Boy
+Angry,Centuries – Fall Out Boy
+Angry,Warriors – Imagine Dragons
+Angry,Believer – Imagine Dragons
+Fear,Disturbia – Rihanna
+Fear,Thriller – Michael Jackson
+Fear,Bury a Friend – Billie Eilish
+Fear,The Hills – The Weeknd
+Fear,Control – Halsey
+Fear,Haunted – Beyoncé
+Fear,Bring Me to Life – Evanescence
+Fear,Demons – Imagine Dragons
+Fear,E.T. – Katy Perry
+Fear,Monster – Lady Gaga
+Fear,Everybody Wants to Rule the World – Lorde
+Fear,Creep – Radiohead
+Fear,Bad Guy – Billie Eilish
+Fear,Black Magic – Little Mix
+Fear,Teeth – 5 Seconds of Summer
+Fear,Chandelier – Sia
+Fear,Running with the Wolves – AURORA
+Fear,Seven Devils – Florence + The Machine
+Fear,Castle – Halsey
+Fear,Control – Zoe Wees
+Surprise,Surprise Yourself – Jack Garratt
+Surprise,Electric Feel – MGMT
+Surprise,Pompeii – Bastille
+Surprise,Rather Be – Clean Bandit ft. Jess Glynne
+Surprise,Levels – Avicii
+Surprise,Wake Me Up – Avicii
+Surprise,Adventure of a Lifetime – Coldplay
+Surprise,Titanium – David Guetta ft. Sia
+Surprise,On Top of the World – Imagine Dragons
+Surprise,Viva La Vida – Coldplay
+Surprise,Counting Stars – OneRepublic
+Surprise,We Found Love – Rihanna ft. Calvin Harris
+Surprise,Don’t Stop Believin’ – Journey
+Surprise,Fireflies – Owl City
+Surprise,Happy Now – Zedd ft. Elley Duhé
+Surprise,Stolen Dance – Milky Chance
+Surprise,Feel Good Inc. – Gorillaz
+Surprise,High Hopes – Panic! At The Disco
+Surprise,Good Time – Owl City & Carly Rae Jepsen
+Surprise,My Type – Saint Motel
+Disgust,Bad Blood – Taylor Swift ft. Kendrick Lamar
+Disgust,You Oughta Know – Alanis Morissette
+Disgust,Irreplaceable – Beyoncé
+Disgust,Before He Cheats – Carrie Underwood
+Disgust,Rolling in the Deep – Adele
+Disgust,Gives You Hell – The All-American Rejects
+Disgust,Sorry Not Sorry – Demi Lovato
+Disgust,Look What You Made Me Do – Taylor Swift
+Disgust,Stronger (What Doesn’t Kill You) – Kelly Clarkson
+Disgust,Since U Been Gone – Kelly Clarkson
+Disgust,Fighter – Christina Aguilera
+Disgust,So What – P!nk
+Disgust,Blow Me (One Last Kiss) – P!nk
+Disgust,Praying – Kesha
+Disgust,Confident – Demi Lovato
+Disgust,Not Afraid – Eminem
+Disgust,Break Free – Ariana Grande
+Disgust,Survivor – Destiny’s Child
+Disgust,I Will Survive – Gloria Gaynor
+Disgust,Don’t Cha – The Pussycat Dolls
+Love,Perfect – Ed Sheeran
+Love,Thinking Out Loud – Ed Sheeran
+Love,All of Me – John Legend
+Love,Love Me Like You Do – Ellie Goulding
+Love,A Thousand Years – Christina Perri
+Love,Just the Way You Are – Bruno Mars
+Love,Can’t Help Falling in Love – Elvis Presley
+Love,Marry You – Bruno Mars
+Love,You Are the Reason – Calum Scott
+Love,Say You Won’t Let Go – James Arthur
+Love,Beautiful in White – Shane Filan
+Love,Truly Madly Deeply – Savage Garden
+Love,My Heart Will Go On – Celine Dion
+Love,Everything – Michael Bublé
+Love,Rewrite the Stars – Zac Efron & Zendaya
+Love,Nothing’s Gonna Change My Love for You – George Benson
+Love,Bleeding Love – Leona Lewis
+Love,I Don’t Want to Miss a Thing – Aerosmith
+Love,Shape of You – Ed Sheeran
+Love,Lover – Taylor Swift
+Neutral,Let It Be – The Beatles
+Neutral,Imagine – John Lennon
+Neutral,7 Years – Lukas Graham
+Neutral,Photograph – Ed Sheeran
+Neutral,Viva La Vida – Coldplay
+Neutral,Riptide – Vance Joy
+Neutral,Ho Hey – The Lumineers
+Neutral,Budapest – George Ezra
+Neutral,Counting Stars – OneRepublic
+Neutral,Hey There Delilah – Plain White T’s
+Neutral,Someone You Loved – Lewis Capaldi
+Neutral,Don’t Let Me Down – The Chainsmokers
+Neutral,Demons – Imagine Dragons
+Neutral,Apologize – OneRepublic
+Neutral,The Scientist – Coldplay
+Neutral,Chasing Cars – Snow Patrol
+Neutral,Wake Me Up When September Ends – Green Day
+Neutral,Let Me Down Slowly – Alec Benjamin
+Neutral,Fast Car – Tracy Chapman
+Neutral,Let Her Go – Passenger
+Excited,Can’t Stop the Feeling – Justin Timberlake
+Excited,24K Magic – Bruno Mars
+Excited,Shut Up and Dance – WALK THE MOON
+Excited,Don’t Start Now – Dua Lipa
+Excited,Blinding Lights – The Weeknd
+Excited,Dance Monkey – Tones and I
+Excited,Levitating – Dua Lipa
+Excited,"Bang Bang – Jessie J, Ariana Grande, Nicki Minaj"
+Excited,"I Like It – Cardi B, Bad Bunny, J Balvin"
+Excited,Party Rock Anthem – LMFAO
+Excited,Timber – Pitbull ft. Kesha
+Excited,"Taki Taki – DJ Snake ft. Selena Gomez, Ozuna, Cardi B"
+Excited,Despacito – Luis Fonsi ft. Daddy Yankee
+Excited,Cheap Thrills – Sia
+Excited,Hey Ya! – Outkast
+Excited,Waka Waka – Shakira
+Excited,We Found Love – Rihanna
+Excited,Fireball – Pitbull
+Excited,Cake by the Ocean – DNCE
+Excited,Don’t Stop the Music – Rihanna
+Bored,Lost – Frank Ocean
+Bored,The Sound of Silence – Simon & Garfunkel
+Bored,Let It Happen – Tame Impala
+Bored,Somebody That I Used to Know – Gotye
+Bored,Summertime Sadness – Lana Del Rey
+Bored,Space Song – Beach House
+Bored,Stressed Out – Twenty One Pilots
+Bored,Ribs – Lorde
+Bored,Sweater Weather – The Neighbourhood
+Bored,Team – Lorde
+Bored,Bored – Billie Eilish
+Bored,Electric Feel – MGMT
+Bored,505 – Arctic Monkeys
+Bored,Daylight – Matt and Kim
+Bored,Dreams – Fleetwood Mac
+Bored,Midnight City – M83
+Bored,The Less I Know the Better – Tame Impala
+Bored,Chamber of Reflection – Mac DeMarco
+Bored,Young Folks – Peter Bjorn and John
+Bored,Where Is My Mind – Pixies
